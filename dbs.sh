@@ -1,2 +1,3 @@
 hello i am practising git commonds
-i am fresher - devops course
+i am fresher 
+i am learning devops
